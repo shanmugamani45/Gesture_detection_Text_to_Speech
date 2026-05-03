@@ -1,0 +1,6 @@
+@echo off
+echo Activating Virtual Environment...
+call venv\Scripts\activate.bat
+echo Starting Sign Language Gesture Recognition...
+python final_pred.py
+pause
