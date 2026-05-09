@@ -91,7 +91,7 @@ Gesture_detection_Text_to_Speech-main/
 ```
 
 ---
-#ScreenShot
+# ScreenShot
 
 
 # Technologies Used
